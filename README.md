@@ -1,5 +1,5 @@
 # Learning
-trial purposes
+trial purpos
 
 ## Subheader 
 trialing subheader 
